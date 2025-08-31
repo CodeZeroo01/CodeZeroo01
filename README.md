@@ -1,6 +1,6 @@
 # Olá, me chamo Guilherme! 👋
 
-Atualmente, sou Conferente na FTD Educação, onde atuo com organização e logística, mas estou em transição de carreira para a área de tecnologia, com foco em **desenvolvimento web**.
+Estudante do curso Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul
 
 Sou apaixonado por tecnologia e estou construindo uma base sólida em programação para me tornar um profissional versátil e pronto para diferentes desafios.
 
